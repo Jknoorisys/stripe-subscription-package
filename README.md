@@ -17,7 +17,7 @@ Noorisys\StripeSubscription\Providers\StripeSubscriptionServiceProvider::class,
 
 ## Configuration
 
-Laravel Agora requires connection configuration. To get started, you'll need to publish all vendor assets:
+Laravel Stripe requires connection configuration. To get started, you'll need to publish all vendor assets:
 
 ```bash
 $ php artisan vendor:publish --provider="Noorisys\StripeSubscription\Providers\StripeSubscriptionServiceProvider" --force
